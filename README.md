@@ -1,23 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-
-  <head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>Interactive spider</title>
-      <style>
+<style>
         body {
     overflow: hidden;
     margin: 0;  
     cursor: pointer;
 }
       </style>
-  </head>
 
-  <body>
-      <canvas id="canvas"></canvas>
+<canvas id="canvas"></canvas>
 
-    <script>
+  <script>
       let w, h;
 const ctx = canvas.getContext("2d");
 const { sin, cos, PI, hypot, min, max } = Math;
@@ -169,19 +160,3 @@ function pt(x,y){
     return {x,y}
 }
     </script>
-
-
-
-    <style>
-      .foot {
-        width: 200px;
-        height: 200px;
-        text-align: center;
-        background-color: red;
-        font-size: 80pxS;
-      }
-    </style>
-    <h1 class="foot">سلام</h1>
-  </body>
-
-</html>
