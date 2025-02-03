@@ -16,16 +16,14 @@
 ```javascript
 const HosseinAbbasi = {
   pronouns: "he" | "man",
-  code: [Javascript, HTML, CSS, PHP, Python],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Django, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-
+  code: [Wordpress, HTML, CSS, , Python],
+  tools: [Wordpress(WP)],
  challenge: "I am doing the #100DaysOfCode challenge focused on projrct and website design"
 }
 ```
 
 <!--Start Intro-->               
-<p align="left">I am a Full Front-End Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full HTML , CSS , wordpress (WP)</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
