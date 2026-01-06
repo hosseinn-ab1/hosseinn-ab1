@@ -33,7 +33,7 @@ A **professional web designer & developer** focused on **WordPress ecosystems**,
 
 ## 🛠️ Skills
 
-### 🌐 Web & WordPress
+### 🌐 WordPress & Web
 <p>
   <img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js" />
 </p>
@@ -53,11 +53,18 @@ A **professional web designer & developer** focused on **WordPress ecosystems**,
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hosseinn_ab1&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinn_ab1&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hosseinn_ab1/hosseinn_ab1/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
