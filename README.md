@@ -3,134 +3,87 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hossein+Abbasi;Web+Designer+%26+Developer;WordPress+%7C+Elementor+%7C+Plugin+Dev;System+Thinking+%E2%86%92+Product+Building;Garden+Brand+%F0%9F%8C%BF&center=true&width=820&height=55&size=28">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hossein+Abbasi;Web+Designer+%26+Developer;WordPress+%7C+Elementor+%7C+Plugin+Development;System+Thinking+to+Product+Building;Garden+Brand+🌿&center=true&width=900&height=55&size=26">
 </p>
 
 <p align="center">
   <a href="#fa">
-    <img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B7%20Farsi-Switch-00C2FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🇮🇷%20فارسی-مشاهده-22c55e?style=for-the-badge" />
   </a>
   <a href="#en">
-    <img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English-Switch-7C3AED?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🇬🇧%20English-View-3b82f6?style=for-the-badge" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:7c3aed&height=3&section=header" width="100%"/>
 </p>
 
 ---
 
 <a id="en"></a>
 
-## 🇬🇧 English — Who am I?
+## 🇬🇧 About Me
 
-<table>
-<tr>
-<td width="60%">
+Hi 👋 I’m **Hossein Abbasi**  
+A **professional web designer & developer** focused on **WordPress ecosystems**, **Elementor-based systems**, and **custom plugin development**.
 
-### 👋 Hey, I'm Hossein Abbasi  
-I’m a **professional web designer & developer** focused on **WordPress ecosystems**, **Elementor-based systems**, and **plugin development**.
-
-I build things like a product:
-- 🧠 **System thinking** (not just “make a page”)
-- 🧩 **Project-based architecture**
-- 🚀 **Idea → execution → real product**
-- 🌿 Personal brand: **Garden**
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
+- 🧠 System thinker, not just page builder  
+- 🌿 Personal brand: **Garden**  
+- 🚀 From idea to real product  
+- 🤝 ChatGPT as thinking & technical partner  
 
 ---
 
-## 🧠 What I’m good at (Skills)
+## 🛠️ Skills
 
-### 🌐 WordPress & Web
-<p align="left">
+### 🌐 Web & WordPress
+<p>
   <img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js" />
 </p>
 
 - WordPress (Advanced)
-- Elementor (Custom systems, templates, scalable structure)
-- Plugin Development (custom features, integrations)
-- Performance (speed, caching, optimization)
-- Security (hardening, safe setup)
+- Elementor (Custom systems & widgets)
+- Plugin Development
+- Performance & Security
+- UX-focused development
 
-### 🎨 UI/UX & Product Thinking
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-- UX-first design decisions
-- Turning ideas into MVP / product
-- Project workflows & system design
-
-### ⚙️ Dev Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📈 Graphs (Animated / Visual)
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
 <a id="fa"></a>
 
-## 🇮🇷 فارسی — من کی‌ام؟
+## 🇮🇷 درباره من
 
-<table>
-<tr>
-<td width="60%">
+من **حسین عباسی** هستم 👋  
+طراح و توسعه‌دهنده وب با تمرکز روی **وردپرس، المنتور و توسعه افزونه**.
 
-### 👋 من حسین عباسی‌ام  
-طراح و توسعه‌دهنده وب با تمرکز روی **وردپرس، المنتور، توسعه افزونه** و ساخت **سیستم‌های پروژه‌محور**.
-
-من کار رو «محصولی» می‌بینم:
-- 🧠 نگاه سیستمی به پروژه
-- 🧩 ساختاردهی درست (قابل توسعه و تمیز)
-- 🚀 تبدیل ایده به خروجی واقعی
-- 🌿 برند شخصی: **گاردن**
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
+- 🧠 نگاه سیستمی به پروژه  
+- 🌿 برند شخصی: **گاردن**  
+- 🚀 تبدیل ایده به محصول واقعی  
+- 🤝 استفاده از ChatGPT به‌عنوان هم‌تیمی فکری و فنی  
 
 ---
 
-## 🛠️ مهارت‌ها (کامل و مرتب)
+## 🛠️ مهارت‌ها
 
 ### 🌐 وردپرس و وب
-- وردپرس پیشرفته (ساختار، بهینه‌سازی، امنیت)
-- المنتور (سیستم‌سازی، قالب‌های قابل توسعه)
-- توسعه افزونه (ویژگی‌های اختصاصی، اتصالات و API)
+- وردپرس پیشرفته
+- المنتور (سیستم‌سازی و توسعه‌پذیر)
+- توسعه افزونه
 - HTML / CSS / JavaScript
-- PHP (برای توسعه WP)
-
-### 🧩 سیستم و محصول
-- طراحی سیستم‌های پروژه‌محور
-- معماری و مدیریت گردش کار
-- تبدیل ایده به محصول
-- تمرکز روی تجربه کاربری و نتیجه نهایی
+- PHP
 
 ### ⚙️ ابزارها
 - Git / GitHub
@@ -138,18 +91,6 @@ I build things like a product:
 - Figma
 
 ---
-
-## 🐍 Contribution Snake (خیلی خفن)
-> اگر فعال نشد، یعنی باید workflow رو توی ریپو ست کنی (می‌گم چطور).
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7c3aed&height=140&section=footer"/>
-</p>
 
 <p align="center">
   <a href="https://t.me/hosseinn_ab">
