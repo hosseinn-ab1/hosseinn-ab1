@@ -22,18 +22,19 @@
 ## 🇬🇧 About Me
 
 Hi 👋 I’m **Hossein Abbasi**  
-A **professional web designer & developer** focused on **WordPress ecosystems**, **Elementor-based systems**, and **custom plugin development**.
+A **professional web designer & developer** focused on building **real, scalable, project-based solutions**.
 
-- 🧠 System thinker, not just page builder  
-- 🌿 Personal brand: **Garden**  
-- 🚀 From idea to real product  
-- 🤝 ChatGPT as thinking & technical partner  
+- 🧠 System thinker (not just page builder)
+- 🌿 Personal brand: **Garden**
+- 🛠️ WordPress, Elementor & Plugin Development
+- 🚀 From idea → design → development → product
+- 🤝 ChatGPT as a thinking & technical partner
 
 ---
 
 ## 🛠️ Skills
 
-### 🌐 WordPress & Web
+### 🌐 Web & WordPress
 <p>
   <img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js" />
 </p>
@@ -53,18 +54,18 @@ A **professional web designer & developer** focused on **WordPress ecosystems**,
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hosseinn_ab1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hosseinn-ab1&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinn_ab1&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinn-ab1&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hosseinn_ab1/hosseinn_ab1/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/hosseinn-ab1/hosseinn-ab1/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
@@ -74,12 +75,12 @@ A **professional web designer & developer** focused on **WordPress ecosystems**,
 ## 🇮🇷 درباره من
 
 من **حسین عباسی** هستم 👋  
-طراح و توسعه‌دهنده وب با تمرکز روی **وردپرس، المنتور و توسعه افزونه**.
+طراح و توسعه‌دهنده وب با تمرکز روی **وردپرس، المنتور و توسعه افزونه** و ساخت **سیستم‌های پروژه‌محور**.
 
-- 🧠 نگاه سیستمی به پروژه  
-- 🌿 برند شخصی: **گاردن**  
-- 🚀 تبدیل ایده به محصول واقعی  
-- 🤝 استفاده از ChatGPT به‌عنوان هم‌تیمی فکری و فنی  
+- 🧠 نگاه سیستمی به پروژه
+- 🌿 برند شخصی: **گاردن**
+- 🚀 تبدیل ایده به محصول واقعی
+- 🤝 استفاده از ChatGPT به‌عنوان هم‌تیمی فکری و فنی
 
 ---
 
@@ -106,4 +107,8 @@ A **professional web designer & developer** focused on **WordPress ecosystems**,
   <a href="https://hosseinwp.ir">
     <img src="https://img.shields.io/badge/Website-hosseinwp.ir-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:3b82f6&height=140&section=footer"/>
 </p>
