@@ -1,5 +1,5 @@
 <!--Banner-->
-![HoSi Banner Image](banner.PNG)
+![HoSi Banner Image](banner-top.PNG)
 
 <!--Night Owl image-->
 <div>
