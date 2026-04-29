@@ -1,0 +1,20 @@
+<!doctype html><html lang="fa" dir="rtl"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>IranVoice Studio</title><link rel="stylesheet" href="styles.css"></head><body>
+<div id="toastContainer" class="toasts"></div>
+<section id="dashboardView" class="view active">
+<header class="dash-top"><div class="brand">🎧 IranVoice Studio</div><div class="search-wrap"><input id="serverSearch" placeholder="جستجوی سرور..."/></div><button id="openProfile" class="avatarBtn"><img id="topAvatar" src="https://i.pravatar.cc/80?img=23"><span id="topName">مهمان</span></button></header>
+<div class="dash-grid"><article class="panel hero"><h1>داشبورد مدیریت ویس</h1><p>مدیریت سرورها، کاربران و چنل‌ها با تجربه حرفه‌ای.</p><button id="openWizard" class="btn pri">ساخت سرور</button></article><article class="panel"><h3>سرورهای عمومی</h3><div id="publicServers" class="list"></div></article><article class="panel"><h3>سرورهای شما</h3><div id="myServers" class="list"></div><h3>اتصال با IP</h3><div class="row"><input id="ipInput" placeholder="185.10.10.5"><button id="joinByIp" class="btn">Join</button></div></article></div>
+</section>
+
+<section id="serverView" class="view">
+<header class="ts-top"><button id="backDashboard" class="btn">↩ داشبورد</button><div id="serverTitle" class="ts-title"></div><div class="status">🟢 Connected</div></header>
+<div class="ts-layout">
+<aside class="ts-tree"><div class="tree-head">Server Tree</div><div id="channelTree"></div></aside>
+<main class="ts-main"><div class="toolbar"><button id="muteMic" class="tbtn">🎤 Mute Mic</button><button id="deafen" class="tbtn">🔇 Deafen</button><button id="afkBtn" class="tbtn">🛌 AFK</button><button id="soundBtn" class="tbtn">🔈 Sound On</button></div><div class="channel-head"><h3 id="activeChannelName"></h3></div><div id="channelMembers" class="members"></div></main>
+<aside class="ts-side"><div class="side-card">اعلان‌ها</div><div class="side-card">سرور آنلاین: 99.98%</div><div class="side-card">Ping: 34ms</div></aside>
+</div>
+</section>
+
+<div id="joinModal" class="modal hidden"><div class="modal-card"><h3>در حال اتصال</h3><div id="connectSteps"></div><div class="bar"><i id="progressBar"></i></div></div></div>
+<div id="wizardModal" class="modal hidden"><div class="modal-card large"><div class="row"><h3>ساخت سرور</h3><button onclick="closeModal('wizardModal')" class="btn">✕</button></div><div id="wizardSteps" class="wsteps"></div><div id="wizardBody" class="wbody"></div><div class="row"><button id="prevStep" class="btn">قبل</button><button id="nextStep" class="btn pri">ادامه</button></div></div></div>
+<div id="profileModal" class="modal hidden"><div class="modal-card"><div class="row"><h3>تنظیمات پروفایل</h3><button onclick="closeModal('profileModal')" class="btn">✕</button></div><div class="tg"><img id="profilePreview" src="https://i.pravatar.cc/150?img=23"><div><label>نام</label><input id="profileName"><label>Bio</label><input placeholder="درباره من"><label>Username</label><input placeholder="@username"><label>عکس</label><input id="avatarUpload" type="file" accept="image/*"></div></div><button id="saveProfile" class="btn pri">ذخیره تغییرات</button></div></div>
+<script src="app.js"></script></body></html>
